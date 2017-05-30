@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+when you intialize a repository it tells git to start tracking changes ot the files
+in that directory. it adds a few .git files into the directory and you can now check
+the status of these files and start making commits. we dont know how to do that yet
+but to start a repository type: git init
+to get the status of a repo type: git status
