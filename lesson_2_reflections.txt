@@ -5,3 +5,9 @@ in that directory. it adds a few .git files into the directory and you can now c
 the status of these files and start making commits. we dont know how to do that yet
 but to start a repository type: git init
 to get the status of a repo type: git status
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area allows you to commit one file at a time from the current reposity.
+This will ensure that you have one logical change per commit. This will help with debugging
+
