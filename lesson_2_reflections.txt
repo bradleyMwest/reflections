@@ -31,3 +31,12 @@ you want to add a new feature to the program
 How do the diagrams help you visualize the branch structure?
 Diagrams let you see how branches are related. which branches have common parents, and know how to navigate through commits
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result combines the two versions with the most up-to-date changes.
+it looks at which lines were deleted and added from the parent of each branch, and propogates the chagnes
+its good to look at the branch diagram because the commits related to one branch and another are unrelated to one another
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+the pros: its fast, and handles small changes well
+the cons: it can be annoying if two people make different changes to the same line, then you have to go in 
+and modify the file on your own. add it to the staging area, and then commit the changes yourself to finish the merge
