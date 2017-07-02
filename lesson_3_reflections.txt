@@ -3,3 +3,8 @@ You want to do this to share your work collaborate with others.
 This lets you share your work and all your changes 
 between multiple computers by cloning the repository and 
 included changes made by other people to your work.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+This way you are constantly monitoring the changes that are being made
+and you can avoid having code that doesnt work any more
+because someone else commited a bug that may be difficult for you to find
