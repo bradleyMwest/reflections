@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+You want to do this to share your work collaborate with others. 
+This lets you share your work and all your changes 
+between multiple computers by cloning the repository and 
+included changes made by other people to your work.
