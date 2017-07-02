@@ -8,3 +8,8 @@ Why might you want to always pull changes manually rather than having Git automa
 This way you are constantly monitoring the changes that are being made
 and you can avoid having code that doesnt work any more
 because someone else commited a bug that may be difficult for you to find
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks make copies of existing repositories on github and reference the original author
+Clones copy those repositories onto your compouter from github or another location on your drive
+branches only happen on within repositories and are need to be specified when pushing/pulling
